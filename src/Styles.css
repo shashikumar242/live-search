@@ -1,0 +1,36 @@
+.container {
+  margin: 36px auto;
+  width: 100%;
+  max-width: 800px;
+  background-color: yellow;
+}
+
+.heading {
+  font-size: 30px;
+  padding: 16px 0;
+  color: #444;
+  text-align: center;
+  background-color: red;
+}
+
+.search-label {
+  position: relative;
+}
+
+.container input {
+  width: 100%;
+  padding: 16px;
+  font-size: 36px;
+  font-style: italic;
+  color: #444;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.search-icon {
+  position: absolute;
+  font-size:30px;
+  right:18px;
+  top:-10px;
+
+}
